@@ -1,0 +1,10 @@
+Ordenanza Nº5365
+Ordenanza Nº 5365
+San Vicente, 30/12/2022
+IMPOSITIVA EJERCICIO 2023
+ORDENANZA
+ORDENANZA N°5365
+IMPOSITIVA EJERCICIO 2023
+TÍTULO I
+GRAVÁMENES
+Capítulo I - Tasa por Servicios Especiales Urbanos
