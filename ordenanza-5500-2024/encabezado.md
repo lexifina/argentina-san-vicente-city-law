@@ -1,0 +1,31 @@
+Ordenanza Nº5500
+Ordenanza Nº 5500
+San Vicente, 12/12/2024
+VISTO:
+La seguridad pública es esencial para garantizar a los ciudadanos el goce y ejercicio de sus derechos, libertades y garantías constitucionales, tal como lo establecen los artículos 10º, 11º, 12º incisos 1) y 3), 20), 56) y concordantes de la Constitución Provincial. En su Preámbulo, la Constitución de la Provincia de Buenos Aires establece el principio de “…Proveer a la seguridad común…”, que debe ser resguardado por todos los actores del sistema, siendo la Provincia y el Municipio partes fundamentales en la protección de la comunidad, y;
+CONSIDERANDO:
+Que el artículo 5° de la Constitución indica que provincia dictará para sí una Constitución bajo el sistema representativo republicano, de acuerdo con los principios, declaraciones y garantías de la Constitución Nacional; y que asegure su administración de justicia, su régimen municipal, y la educación primaria;
+Que el artículo 123º de la Constitución Nacional, incorporado en la reforma de 1994, otorga autonomía a los municipios, asegurando su capacidad de dictar normas en los ámbitos institucional, político, administrativo, económico y financiero, lo que permite a los gobiernos locales asumir un rol protagónico en temas de seguridad y protección ciudadana;
+Que el artículo 10º de la Constitución de la Provincia de Buenos Aires garantiza que todos los habitantes de la Provincia tienen derecho a ser protegidos en su vida, libertad, reputación, seguridad y propiedad, y que dicha responsabilidad recae primordialmente en el Estado;
+Que la Municipalidad, conforme a la normativa vigente, tiene competencia para autorizar y fiscalizar las actividades que tanto particulares como otros entes públicos desarrollan en su Distrito, y que entre sus objetivos está fortalecer y proponer nuevos sistemas de control de faltas administrativas y prevención en todo el territorio municipal;
+Que los gobiernos locales, como instancias del Estado más cercanas a los ciudadanos, se enfrentan a una creciente demanda en temas de control, seguridad y prevención ciudadana, trasladándose hacia ellos demandas que históricamente correspondían a los gobiernos nacionales o provinciales;
+Que el Municipio de San Vicente ha asumido un rol activo en la protección y prevención de sus ciudadanos, implementando áreas específicas dedicadas a la resolución de problemas de control administrativo de faltas, seguridad y prevención,
+colaborando estrechamente con la Policía de la Provincia de Buenos Aires y autoridades nacionales;
+Que la problemática de la seguridad pública y la necesidad de una presencia preventiva constituyen una preocupación constante, en virtud de los conflictos y demandas que surgen al respecto y que son de dominio público;
+Que, para atender a las necesidades antes mencionadas, resulta indispensable aunar esfuerzos con el fin de obtener los recursos materiales necesarios para implementar de manera efectiva los mecanismos de prevención en materia de seguridad pública;
+Que existe una firme convicción de que la mayor presencia de fuerzas de seguridad no solo actúa como un medio preventivo, sino que, en muchos casos, tiene un efecto disuasivo sobre la comisión de delitos;
+Que el objetivo primordial es la erradicación de toda modalidad delictiva a través de la implementación de actividades preventivas dentro del sistema de seguridad pública;
+Que, en virtud de las necesidades y desafíos actuales en materia de seguridad pública, es necesario fortalecer la dinámica operativa del municipio, ajustándola a las políticas preventivas y a las exigencias del Partido de San Vicente;
+Que resulta conveniente implementar una reingeniería del sistema de gestión y control de los servicios preventivos municipales, optimizando los recursos humanos, logísticos y administrativos, bajo la creación del Grupo de Prevención Municipal (GPM), cuya función será ejecutar acciones preventivas y de control de faltas municipales, en colaboración con otras áreas del municipio y la Policía de la Provincia y autoridades nacionales;
+Que el GPM permitirá un despliegue más efectivo de recursos, generando una mayor presencia en las calles y una mejora en las condiciones laborales mediante la especialización por función, aumentando la flexibilidad en la asignación de recursos de acuerdo a las problemáticas de prevención en seguridad identificadas;
+Que la Municipalidad colabora activamente con los organismos provinciales y nacionales competentes en la protección de la vida, seguridad y propiedad de los ciudadanos;
+Que el GPM, al estar encargado de la prevención en seguridad pública, el mantenimiento del orden y la protección de los ciudadanos, desempeña funciones esenciales que no pueden verse interrumpidas por medidas de fuerza o conflictos gremiales, resultando incompatible con el derecho de sindicalización;
+Que la participación de los agentes del GPM en sindicatos, tanto existentes como futuros, comprometería la jerarquía, disciplina y operatividad propias de una institución de prevención en seguridad, afectando su capacidad de respuesta ante situaciones críticas;
+Que, dado el carácter especial de las funciones de prevención en seguridad, protección y uso legítimo de la fuerza que ejerce el GPM, resulta incompatible su participación en organizaciones gremiales. Por ello, debe prohibirse expresamente tanto la creación de sindicatos por parte de sus miembros, como su participación en los sindicatos municipales existentes o futuros;
+Que los miembros del GPM no estarán incluidos en las previsiones del Convenio Colectivo de Trabajo de la Municipalidad de San Vicente, debido a la naturaleza especial de sus funciones de prevención en seguridad pública, disciplina y jerarquía, manteniéndose bajo un régimen estatutario especial en su relación con el municipio;
+Que, dada la incompatibilidad de las funciones de prevención en seguridad y orden público, los agentes del GPM tampoco podrán participar o ser representados en futuras negociaciones o discusiones de Convenios Colectivos de Trabajo, preservando la naturaleza estatutaria de su relación con el municipio.
+Por ello, el HONORABLE CONCEJO DELIBERANTE en uso de sus atribuciones sanciona:
+ORDENANZA
+O R D E N A N Z A
+GRUPO DE PREVENCIÓN MUNICIPAL (GPM) TÍTULO I. DISPOSICIONES GENERALES.
+CAPÍTULO I. BASES JURÍDICAS E INSTITUCIONALES.
