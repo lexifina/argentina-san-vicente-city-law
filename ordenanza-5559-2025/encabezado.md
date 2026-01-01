@@ -1,0 +1,8 @@
+Ordenanza Nº5559
+Ordenanza Nº 5559
+San Vicente, 15/12/2025
+ORDENANZA
+ORDENANZA IMPOSITIVA N°5559
+EJERCICIO 2026:
+TÍTULO I GRAVÁMENES
+Capítulo I - Tasa por Propiedad Urbana
