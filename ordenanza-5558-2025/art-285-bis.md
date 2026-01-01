@@ -1,0 +1,3 @@
+Artículo 285 bis: El Juzgado de Faltas deberá verificar, en todos los casos de vehículos sujetos al pago de este tributo, la situación fiscal vigente del contribuyente con anterioridad al levantamiento de las medidas de secuestro o decomiso aplicadas.
+Constatada la evasión total o parcial del tributo, el Juzgado de Faltas procederá a comunicar a la Autoridad de Aplicación los datos identificatorios del infractor y del vehículo involucrado, a los fines que resulten pertinentes.
+La falta de pago del tributo, verificada conforme lo establecido precedentemente, importará la imposibilidad de autorizar el retiro del vehículo secuestrado o decomisado, hasta tanto el contribuyente regularice la situación fiscal correspondiente.

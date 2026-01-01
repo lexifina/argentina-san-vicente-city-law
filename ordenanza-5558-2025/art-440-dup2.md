@@ -1,0 +1,2 @@
+Artículo 440 bis°: Cuando por cualquier circunstancia un sujeto alcanzado por el presente Capítulo no hubiera hecho uso de los derechos o beneficios que el mismo concede y registre deuda fiscal correspondiente a tasas y contribuciones, podrá solicitar la condonación de dicha deuda, siempre que acredite en forma fehaciente que la misma es posterior a la fecha en que cumplió los requisitos que lo habilitaban a acceder al beneficio previsto.
+Capítulo 2 - Derechos de Cementerio

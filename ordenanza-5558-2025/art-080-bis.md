@@ -1,0 +1,3 @@
+Artículo 80° bis: La Autoridad de aplicación podrá establecer programas de promoción y apoyo al comercio y la industria local, pudiendo otorgar —en los casos y condiciones que determine— bonificaciones, reducciones, eximiciones parciales o totales, así como cualquier otro incentivo fiscal que considere adecuado para favorecer la actividad comercial e industrial.
+El Departamento Ejecutivo definirá los requisitos, alcances, plazos, modalidades y procedimientos de aplicación de dichos programas, los cuales deberán orientarse al desarrollo, formalización y fortalecimiento de la actividad económica local.
+Capítulo IV - Persecución judicial del cobro
