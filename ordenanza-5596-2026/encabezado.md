@@ -1,0 +1,21 @@
+Ordenanza Nº5596
+Ordenanza Nº 5596
+San Vicente, 07/05/2026
+VISTO:
+La existencia de la Biblioteca Popular "Mitre", ubicada en la ciudad y partido de San Vicente, y la necesidad de preservar el inmueble que la alberga como parte integrante del patrimonio histórico, arquitectónico y cultural del Partido de San Vicente, y,
+CONSIDERANDO:
+Que las primeras referencias documentales del territorio que hoy ocupa San Vicente se remontan al año 1618, con el establecimiento de una reducción indígena en las inmediaciones de la actual laguna, dando inicio al proceso de ocupación y organización territorial de la región;
+Que hacia fines del siglo XVIII se consolidó el núcleo poblacional en torno al oratorio-capilla de la familia Pessoa, constituyéndose San Vicente en parroquia en 1780 y en partido en 1784, configurando así una identidad histórica propia dentro de la Provincia de Buenos Aires;
+Que en el año 1856 se produjo el traslado del pueblo a su actual emplazamiento, organizándose el trazado urbano en damero y estableciéndose las bases del crecimiento institucional, social y cultural de la comunidad, asignándose en dicho proceso la parcela donde actualmente se emplaza el inmueble de la Biblioteca Popular "Mitre";
+Que dicha parcela fue originariamente otorgada por el Superior Gobierno de la Provincia de Buenos Aires al señor Andrés Iriciti en el año 1864, constituyéndose en uno de los primeros antecedentes dominiales del bien; la vivienda fue construida entre ese año y fines del siglo XIX, y se conserva hasta la actualidad mediante sucesivas transmisiones hereditarias dentro de la familia Iriciti;
+Que mediante escritura de fecha 20 de octubre de 1944, Catalina Eulogia Iriciti vendió el inmueble a la Asociación Biblioteca Popular "Mitre", con el objeto de destinarlo al funcionamiento definitivo de la institución;
+Que la Biblioteca Popular "Mitre" fue fundada el 19 de abril de 1936 por iniciativa de vecinos de la comunidad, encabezados por Don Juan de Dios Merel, con el propósito de fomentar el acceso a la cultura, la lectura y la educación; sostenida desde sus orígenes por el esfuerzo solidario de la comunidad local, mediante donaciones de libros, aportes económicos y trabajo voluntario;
+Que desde su creación la institución ha desarrollado una ininterrumpida labor cultural, educativa y social, constituyéndose en un espacio de formación intelectual, promoción de la lectura y fortalecimiento del tejido comunitario, contando en la actualidad con un acervo bibliográfico significativo y siendo reconocida como entidad de primera categoría dentro del sistema provincial;
+Que el inmueble que ocupa responde a la tipología arquitectónica denominada "casa chorizo", característica del Río de la Plata entre fines del siglo XIX y comienzos del siglo XX. distinguiéndose por la disposición lineal de sus ambientes, su organización en tomo a patios, la presencia de galerías y zaguán, y una fachada de estilo italianizante con ornamentación característica; tipología representativa de los procesos de urbanización e inmigración del período;
+Que el inmueble reviste un especial valor patrimonial no solo por su antigüedad y tipología, sino también por el notable grado de conservación de sus características originales, constituyéndose en un testimonio material representativo de la arquitectura doméstica tradicional de la ciudad cuya preservación resulta fundamental para resguardar la identidad urbana y la memoria histórica de San Vicente;
+Que la preservación del patrimonio histórico, cultural y arquitectónico encuentra sustento en lo establecido por el artículo 41 de la Constitución Nacional, el artículo 28 de la Constitución de la Provincia de Buenos Aires y la normativa vigente en la materia:
+Que se encuentra en vigencia la Ordenanza N° 3.167/99. que establece mecanismos de protección de bienes considerados integrantes del patrimonio del Partido de San Vicente, resultando procedente la inclusión del inmueble en dicho régimen con todos los efectos que de ello se derivan;
+Que la presente Ordenanza se fundamenta en el valor histórico, arquitectónico, cultural y social del inmueble y de la institución que en él funciona, siendo deber del Municipio contribuir a su preservación y puesta en valor;
+Por ello, el HONORABLE CONCEJO DELIBERANTE en uso de sus atribuciones sanciona:
+ORDENANZA
+O R D E N A N Z A Nº5596
