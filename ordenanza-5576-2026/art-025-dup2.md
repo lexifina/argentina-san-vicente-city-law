@@ -1,0 +1,1 @@
+ARTÍCULO 25º: El Departamento Ejecutivo dictará los reglamentos y actos administrativos que sean necesarios para implementación de la presente ordenanza. Para ello atenderá a las diferentes realidades socio económicas y ambientales que se presenten en el territorio, cumpliendo con los fines aquí propuestos.
