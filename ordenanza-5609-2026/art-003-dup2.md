@@ -1,0 +1,7 @@
+ARTÍCULO 3º: Comuníquese, regístrese y archívese. -
+Dada en la Sala de Sesiones del Honorable Concejo Deliberante de San Vicente a los veintiún días del mes de mayo del año dos mil veintiséis. -
+San Vicente, 26 de mayo de 2026
+VISTO:
+La precedente Ordenanza sancionada por el Honorable Concejo Deliberante de San Vicente, y;
+El Señor Intendente Municipal en uso de sus atribuciones
+D E C R E T A
