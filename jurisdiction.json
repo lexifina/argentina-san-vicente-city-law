@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-san-vicente",
+  "code": "AR-B-SAN-VICENTE",
+  "name": "San Vicente",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-san-vicente-city-law",
+  "build": "built: municipal ordinances (114 ordinances, 114 versions) from https://sibom.slyt.gba.gob.ar/cities/119",
+  "language": "es",
+  "sources": 1
+}

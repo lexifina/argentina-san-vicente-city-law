@@ -1,0 +1,1601 @@
+{
+ "country": "AR-B-SAN-VICENTE",
+ "acts": [
+  {
+   "slug": "ordenanza-5235-2021",
+   "short": "Ordenanza 5235/2021",
+   "title": "Ordenanza 5235/2021: Estimase en la suma de pesos dos mil cuatrocientos noventa millones setecientos seis mil con 00/100 ($2.490.706.000,00), los Recursos del año 2022 destinados a la financiación del Presupuesto de Erogaciones de la Adminis",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6393/contents/1660592",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 65,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6393/contents/1660592",
+     "sha256": "03c1016beda6a1a500dc51dc56fad9bb81e909d4dc5d4aa2f02114d08d74a05b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5238-2022",
+   "short": "Ordenanza 5238/2022",
+   "title": "Ordenanza 5238/2022: Aprobar, en todos sus términos, el Convenio de Donación con Cargo suscripto entre la Municipalidad de San Vicente y la Asociación Bomberos Voluntarios de San Vicente, en fecha 23 de febrero de 2022.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6818/contents/1700098",
+   "versions": [
+    {
+     "from": "2022-04-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6818/contents/1700098",
+     "sha256": "199925b5267b95c6014e9261ed2270157c9a956882ee40ddd8f25312534da6df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5239-2022",
+   "short": "Ordenanza 5239/2022",
+   "title": "Ordenanza 5239/2022: Aprobar, en todos sus términos, el Acta de Intención Gobierno Provincia de Buenos Aires Municipio de San Vicente, de fecha 18 de febrero de 2022.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6818/contents/1700102",
+   "versions": [
+    {
+     "from": "2022-04-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6818/contents/1700102",
+     "sha256": "379e8d7b1ca02c80ca213c6611f396181725236173b74b3e84a2091cecd1a3a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5364-2023",
+   "short": "Ordenanza 5364/2023",
+   "title": "Ordenanza 5364/2023: Esta Ordenanza Fiscal, su reglamentación y sus disposiciones complementarias regirán la determinación, fiscalización y percepción de todas las “obligaciones fiscales” que imponga la Municipalidad de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8088/contents/1822430",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 425,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8088/contents/1822430",
+     "sha256": "fd279d1bf1ef753e63cf3f1c9d3391f08a50dd3a9263c25e92a582b6caaf44a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5365-2023",
+   "short": "Ordenanza 5365/2023",
+   "title": "Ordenanza 5365/2023: De acuerdo a lo establecido en la Ordenanza Fiscal vigente se fijan las siguientes tasas para las zonas que se indican a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8088/contents/1822434",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 87,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8088/contents/1822434",
+     "sha256": "834719d29b413d2fa163ab9ad598688a71731303df5b3894121e4f812fcb2fae"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5382-2023",
+   "short": "Ordenanza 5382/2023",
+   "title": "Ordenanza 5382/2023: Se establecen tres programas de regularización de construcciones civiles existentes, a saber:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8992/contents/1905101",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 35,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8992/contents/1905101",
+     "sha256": "d1a3f324f1c5a212ad0461112bedf81ea5d7fb6a894c29164bfc65a30201a09d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5427-2024",
+   "short": "Ordenanza 5427/2024",
+   "title": "Ordenanza 5427/2024: Esta Ordenanza Fiscal, su reglamentación y sus disposiciones complementarias regirán la determinación, fiscalización y percepción de todas las “obligaciones fiscales” que imponga la Municipalidad de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9986/contents/2001574",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 462,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9986/contents/2001574",
+     "sha256": "5463f2fca5fac7f44ecbd473ca023a6b6f7f66e556a8329d869756cacb9699db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5428-2024",
+   "short": "Ordenanza 5428/2024",
+   "title": "Ordenanza 5428/2024: De acuerdo a lo establecido en la Ordenanza Fiscal vigente se fijan las siguientes tasas para las zonas que se indican a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9986/contents/2001581",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 92,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9986/contents/2001581",
+     "sha256": "0cbb98624fadb88cfa5c0bc9a40435ddaac392cd0be83f4e54f3e5069457d5ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5423-2023",
+   "short": "Ordenanza 5423/2023",
+   "title": "Ordenanza 5423/2023: Se crea la “Zona Corredor de Desarrollo calle Rivadavia - San Vicente Uno (ZCD-SV1)” dentro del área urbana, sub área semi urbanizada de la localidad de San Vicente, del partido de San Vicente, y se afectan a la misma lo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9954/contents/1998685",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 20,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9954/contents/1998685",
+     "sha256": "40775a21417b2d0f7c4e43a67058f7425a92a7b3871685398c6557ff50a468f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5244-2024",
+   "short": "Ordenanza 5244/2024",
+   "title": "Ordenanza 5244/2024: Créase el “PROGRAMA DE REGULARIZACIÓN DOMINIAL DEL MUNICIPIO DE SAN VICENTE”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10108/contents/2010421",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 16,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10108/contents/2010421",
+     "sha256": "8f9be0ce30182e995890c7ebaf4374aace43ce7db3bfc459e193e6b37d572aaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5429-2024",
+   "short": "Ordenanza 5429/2024",
+   "title": "Ordenanza 5429/2024: Se detrae del PLAN 500 VIVIENDAS BARRIO EMPALME reglado en el Anexo II de la Ordenanza 5163 la cantidad de 156 viviendas a finalizar.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011576",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011576",
+     "sha256": "4bebc1b7ded546b8186ee250abc8c362fbc2e940cfeea91ffa5c48aae2f76766"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5430-2024",
+   "short": "Ordenanza 5430/2024",
+   "title": "Ordenanza 5430/2024: Aceptar la donación realizada por la empresa EDESUR S.A, de dos (2) grupos electrógenos con las siguientes características: Dominio PEM770, Año 2015, Equipo Nro. 202101, Marca: Energoup, Modelo: ENERJD100, Motor Marca: J",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011579",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011579",
+     "sha256": "3db7f00eb5a4558c418338f9d86ecf4053aaff36db0eb4a9f27e05181ada021a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5431-2024",
+   "short": "Ordenanza 5431/2024",
+   "title": "Ordenanza 5431/2024: Se aprueba en su totalidad el Decreto N° 2138/2023 emitido por el Departamento Ejecutivo.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011580",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011580",
+     "sha256": "e7a17449bf3d33e6a439c9d39531d2c05af5f09a8de73a4191069d981156ca60"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5432-2024",
+   "short": "Ordenanza 5432/2024",
+   "title": "Ordenanza 5432/2024: Convalídese lo actuado por el Departamento Ejecutivo mediante Decreto N° 2040/23, por medio del cual se adjudican por único oferente y “ad referéndum” del Honorable Concejo Deliberante, los renglones Nº 38 a Multi Trade ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011582",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011582",
+     "sha256": "1274eed10f7775e4feeeed06c727e0d0375add6cf98fb037a0be18588a1dc17a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5433-2024",
+   "short": "Ordenanza 5433/2024",
+   "title": "Ordenanza 5433/2024: Convalídese lo actuado por el Departamento Ejecutivo mediante Decreto N° 2090/23, por medio del cual se adjudican por único oferente y “ad referéndum” del Honorable Concejo Deliberante, los renglones Nº 3 a Gabilondo Dam",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011583",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011583",
+     "sha256": "f5c22a120eb06e59ca8b96d9dea7c7967a456da1b5f8a0b3699664e778d8d2b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5434-2024",
+   "short": "Ordenanza 5434/2024",
+   "title": "Ordenanza 5434/2024: Concédase la condonación de deuda por tasas municipales que registra la Partida Nº 600080, por los años 2003 a 2018 y 2020 a 2023, propiedad de la señora Johanna Virginia CABRERA DI LEVA, titular del DNI Nº 39.164.867.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011584",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011584",
+     "sha256": "324ebf925e186c2cc6e14cc75859ca34aee8bb203ef9e6bb1e2ad3593b217ee0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5435-2024",
+   "short": "Ordenanza 5435/2024",
+   "title": "Ordenanza 5435/2024: Concédase la condonación de deuda por tasas municipales que registra la Partida Nº 108648, por los años 2002 a 2022 propiedad del señor Jorge Osvaldo GOMEZ, titular del DNI Nº 17.488.798. por su condición de personal del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011585",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10126/contents/2011585",
+     "sha256": "7ef1c27cced1fd3dd94e3c87eca4c227cbff8869bd4984d890ed995bf710b23c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5440-2024",
+   "short": "Ordenanza 5440/2024",
+   "title": "Ordenanza 5440/2024: Crease el Fondo de Mantenimiento de Infraestructura Vial Municipal. El que tendrá como finalidad contribuir total o parcialmente con el financiamiento de los servicios que demande el mantenimiento, conservación, señaliza",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10533/contents/2046464",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 20,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10533/contents/2046464",
+     "sha256": "65d7b21153f9f77b7a0936287d460a370f3d8193bc5e3f0ea21e447c42a710df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5451-2024",
+   "short": "Ordenanza 5451/2024",
+   "title": "Ordenanza 5451/2024: Se establecen tres programas de regularización de construcciones civiles existentes, a saber:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11288/contents/2104139",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 35,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11288/contents/2104139",
+     "sha256": "b24a85623d44c105689159586d835d8d03e3badbdb452ae4b441ea36b7be1dd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5482-2024",
+   "short": "Ordenanza 5482/2024",
+   "title": "Ordenanza 5482/2024: Se establece que, a los fines de la fórmula prevista en el artículo 309 de la Ordenanza Fiscal N° 5427, el aumento de la Unidad arancelaria dispuesto por el Colegio de Arquitectos de la Provincia de Buenos Aires a partir",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11671/contents/2132641",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11671/contents/2132641",
+     "sha256": "d50c92a15fb9f7f926a0bd0fa442a93382dff5fd353677a436ceb240df91a711"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5495-2024",
+   "short": "Ordenanza 5495/2024",
+   "title": "Ordenanza 5495/2024: Los establecimientos industriales y/o comerciales en el ámbito del Partido de San Vicente, en los supuestos del artículo 2°, deberán construir en su predio y previo al vuelco a la vía pública, una cisterna apta para alma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11834/contents/2145021",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11834/contents/2145021",
+     "sha256": "2ce83c98be722347b5ffe646abde9ea8b5f513edc9d91e8f3b58a745f1e722c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5501-2024",
+   "short": "Ordenanza 5501/2024",
+   "title": "Ordenanza 5501/2024: Esta Ordenanza Fiscal, su reglamentación y sus disposiciones complementarias regirán la determinación, fiscalización y percepción de todas las “obligaciones fiscales” que imponga la Municipalidad de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11961/contents/2154135",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 465,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11961/contents/2154135",
+     "sha256": "7d4dcdc7a520d26766e53ae8021d9edcff19bded7406de4f10549afeb5d5a4ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5502-2024",
+   "short": "Ordenanza 5502/2024",
+   "title": "Ordenanza 5502/2024: De acuerdo a lo establecido en la Ordenanza Fiscal vigente se fijan las siguientes tasas para las zonas que se indican a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11961/contents/2154137",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 109,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11961/contents/2154137",
+     "sha256": "5f914c129bff7297ad232b37d665dcf4799d85b44ad093da3ccb89943fbf1cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5500-2024",
+   "short": "Ordenanza 5500/2024",
+   "title": "Ordenanza 5500/2024: De la Creación.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11963/contents/2154156",
+   "versions": [
+    {
+     "from": "2025-01-05",
+     "units": 44,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11963/contents/2154156",
+     "sha256": "554f84b8c2a79c3cb11f64eb706d2a69658f11f65679c38c973e8836a685be51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5528-2025",
+   "short": "Ordenanza 5528/2025",
+   "title": "Ordenanza 5528/2025: Créase el Programa Municipal de Regularización Productiva y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13435/contents/2274639",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13435/contents/2274639",
+     "sha256": "b25ed21a08e7ba29ae72cb51bb77fd5b908257cab24f373c0bf2387b31b525ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5554-2025",
+   "short": "Ordenanza 5554/2025",
+   "title": "Ordenanza 5554/2025: Declárase en estado de Emergencia Económica, Financiera, Administrativa y Social al Municipio de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13883/contents/2310026",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 29,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13883/contents/2310026",
+     "sha256": "a2945d6516de7f6df233b85871a73afe80743d70e76f775ebfcb35d803b5e09e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5553-2025",
+   "short": "Ordenanza 5553/2025",
+   "title": "Ordenanza 5553/2025: Créase en el ámbito del Municipio de San Vicente el Régimen de Funcionamiento de las Ferias de Emprendedores y Emprendedoras de la Economía Popular, que se desarrollen en espacios públicos, fijos o itinerantes.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13883/contents/2310027",
+   "versions": [
+    {
+     "from": "2025-11-22",
+     "units": 34,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13883/contents/2310027",
+     "sha256": "6de5d7bbc7bffc88fb2027869136bba1c1c4c25d1353771c3dbae91741801f31"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5558-2025",
+   "short": "Ordenanza 5558/2025",
+   "title": "Ordenanza 5558/2025: Esta Ordenanza Fiscal, su reglamentación y sus disposiciones complementarias regirán la determinación, fiscalización y percepción de todas las “obligaciones fiscales” que imponga la Municipalidad de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14118/contents/2325883",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 475,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14118/contents/2325883",
+     "sha256": "fc52fc1309ff51d70f907859000869d8538763641f9385b9f416b6905c416ff8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5559-2025",
+   "short": "Ordenanza 5559/2025",
+   "title": "Ordenanza 5559/2025: De acuerdo a lo establecido en la Ordenanza Fiscal vigente se fijan las siguientes tasas para las zonas que se indican a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14118/contents/2325888",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 112,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14118/contents/2325888",
+     "sha256": "4da511d7cae0c1b885cb843a914f8a9d003a10005714d22b9db10ca46001f262"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5561-2026",
+   "short": "Ordenanza 5561/2026",
+   "title": "Ordenanza 5561/2026: Se establecen tres programas de regularización de construcciones civiles existentes, a saber:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386422",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 39,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386422",
+     "sha256": "83a8675bc6c9eaacf49aaba692415831a74be5397cffb74badd6da01d9436236"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5562-2026",
+   "short": "Ordenanza 5562/2026",
+   "title": "Ordenanza 5562/2026: Apruébase la Adenda al Convenio de Donación con Cargo celebrada entre la Municipalidad de San Vicente y el Club Deportivo San Vicente, de fecha 30 de diciembre de 2025.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386430",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386430",
+     "sha256": "aa1b4d9b828557bd58c529732fe033bf559a4fbe9ff082f44dd673e2dbc19ebe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5563-2026",
+   "short": "Ordenanza 5563/2026",
+   "title": "Ordenanza 5563/2026: Autorízase al Departamento Ejecutivo a disponer, en favor de la Provincia de Buenos Aires —con destino a la Dirección General de Cultura y Educación— la afectación, cesión, donación, transferencia, constitución de derech",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386457",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386457",
+     "sha256": "6575a1398e826835c2e0efc4cfb2a29e40b1c8a120a9381bea4ee37f44b1bd4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5564-2026",
+   "short": "Ordenanza 5564/2026",
+   "title": "Ordenanza 5564/2026: Créase el “DISTRITO CULTURAL Y DEPORTIVO – CIUDAD DE ALEJANDRO KORN – PADRE CARLOS MUJICA”, en adelante “EL DISTRITO”, como ámbito público municipal integral destinado al desarrollo de actividades deportivas, culturales,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386491",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 24,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386491",
+     "sha256": "6bb44ad53e735539280a418ba47305f389d522557bfa6fd8cab65c4fc3d04932"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5565-2026",
+   "short": "Ordenanza 5565/2026",
+   "title": "Ordenanza 5565/2026: Impónese el nombre “ESTADIO CIUDAD DE SAN VICENTE” al estadio de fútbol 11 con superficie de césped sintético emplazado dentro del Distrito Cultural y Deportivo – Ciudad de Alejandro Korn – Padre Carlos Mujica.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386505",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386505",
+     "sha256": "2e8678ddb5f7ba365f0c85507ac915e1b217cb1d2834f4c80e67347c90806f3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5566-2026",
+   "short": "Ordenanza 5566/2026",
+   "title": "Ordenanza 5566/2026: Se autoriza la firma HSD MORGAN CONSTRUCCIONES SRL a ampliar la Urbanización protegida constituida mediante Ordenanza N° 5380 y denominada “ARROYOS DE SAN VICENTE” incluyendo en la misma las parcelas enumeradas en el art",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386514",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386514",
+     "sha256": "05f474b7589b56aab671f738a9d9ef39edeb2d315a027fe83c882659b2015ddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5567-2026",
+   "short": "Ordenanza 5567/2026",
+   "title": "Ordenanza 5567/2026: Se autoriza al Sr. CAMUSSI, FABIAN MATIAS (DNI 23.178.068) a conformar una Urbanización protegida denominada “EL BAGUAL” en la localidad de San Vicente en el sector descripto en el artículo siguiente, ello en los término",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386528",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386528",
+     "sha256": "a82062bf1e660a5c0b62297cc36b90e69f4fe2de6fec659e26f8465a8fc3b343"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5568-2026",
+   "short": "Ordenanza 5568/2026",
+   "title": "Ordenanza 5568/2026: Se desafecta del Área Rural de la localidad de San Vicente las parcelas denominadas catastralmente como:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386602",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386602",
+     "sha256": "e6dedf1d50d8569bc5729c6897bb97335dbb5cb0d0fcda8f648d545b7ffd65db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5569-2026",
+   "short": "Ordenanza 5569/2026",
+   "title": "Ordenanza 5569/2026: Asígnese el nombre de EL CARDENILLA a la calle pública de la ciudad de San Vicente, en el tramo comprendido desde la parcela denominada catastralmente como:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386607",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 35,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14948/contents/2386607",
+     "sha256": "5610a438d5372a94a48fd53df6f5d9c53a7a5ade5a7ba7c0ef5ff9cef6afc8a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5560-2026",
+   "short": "Ordenanza 5560/2026",
+   "title": "Ordenanza 5560/2026: Convalidar, en todos sus términos, el Convenio celebrado con fecha 13 de marzo de 2026 entre la Municipalidad de San Vicente y el Sr. Sebastián Fabio Rochcgiani. DNI N° 41,854.685. mediante el cual la Municipalidad entre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388052",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388052",
+     "sha256": "cd4a758986552b0fbbb7f76f30f263e40fd48944d0f5fb6051ab03405c1e2418"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5570-2026",
+   "short": "Ordenanza 5570/2026",
+   "title": "Ordenanza 5570/2026: Condònase la deuda que por la tasa por Servicios Especiales Urbanos y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el anexo 1, que forma parte integrante de la p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387964",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387964",
+     "sha256": "9313f36236c0c5c39cb1fd1be41bbb6cf1810da90e60b960c2f857dc46893e07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5571-2026",
+   "short": "Ordenanza 5571/2026",
+   "title": "Ordenanza 5571/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 69865, por los años 2012 a 2024, en un 50%, propiedad de la señora Sunilda BELINSKY, titular del DNI N° 18.630.747.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387965",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387965",
+     "sha256": "873cbf72da57f5d76df2b6b56112551717e03d61ae465b521487c802c5f9749a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5572-2026",
+   "short": "Ordenanza 5572/2026",
+   "title": "Ordenanza 5572/2026: Concédase la condonación de deuda por Patente de Rodado del automotor,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387968",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387968",
+     "sha256": "7cd055aa6c6e1fc0501cfa5a44cca70c153f522a951d3f8f2cb5b52cde4c185f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5573-2026",
+   "short": "Ordenanza 5573/2026",
+   "title": "Ordenanza 5573/2026: Dispóngase la colocación de una placa conmemorativa por el 50° aniversario del Golpe de Estado acaecido el 24 de marzo de 1976.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387969",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387969",
+     "sha256": "a3e1eed04e6ac290af231419186c3ffdc7a28cb732457019d9796bd9239aa5ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5574-2026",
+   "short": "Ordenanza 5574/2026",
+   "title": "Ordenanza 5574/2026: Concédase la condonación de deuda por Patente de Rodado del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387972",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387972",
+     "sha256": "e1a3ca32955c410f719c1fd4687c2aa25117d5b93950238ff850ada3cd90d880"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5575-2026",
+   "short": "Ordenanza 5575/2026",
+   "title": "Ordenanza 5575/2026: Modificase el Artículo I o de la Ordenanza N° 5555/2025 el que",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387978",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387978",
+     "sha256": "c5c6e5edcca452226fce2fa47c642e1b5fb6565ad2df01dfaede8e59c6194a1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5577-2026",
+   "short": "Ordenanza 5577/2026",
+   "title": "Ordenanza 5577/2026: Convalídese lo actuado por el Departamento Ejecutivo mediante Decreto N° 0692/2025, por medio del cual se adjudica \"ad referéndum \" del Honorable Concejo Deliberante, el Concurso de Precios N° 10/2025, a la firma Soma S.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387979",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387979",
+     "sha256": "4d0f6ea805d24830580b5ac57a3ba956b80faba1da8acbf62c6e57943f5a16af"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5578-2026",
+   "short": "Ordenanza 5578/2026",
+   "title": "Ordenanza 5578/2026: Modificase la denominación del cuerpo creado por el Artículo 1° de la Ordenanza N° 5500, la cual queda establecida de la siguiente manera: \"Policía de San Vicente\". En consecuencia, todas las referencias al \"Grupo de Pre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387981",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387981",
+     "sha256": "cc98acae518170d45fbfaf844d54446ddaeb0428d42022e668bbfc231858d17d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5579-2026",
+   "short": "Ordenanza 5579/2026",
+   "title": "Ordenanza 5579/2026: Créase el Instituto Municipal de Formación de la Policía de San Vicente (en adelante \"el Instituto\") como organismo permanente de formación inicial y capacitación continua del personal de la Policía de San Vicente, con s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387983",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 23,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387983",
+     "sha256": "cd57f67f27b768bc19c3a039cd64a19a089f862676419125880cceabe7f889f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5580-2026",
+   "short": "Ordenanza 5580/2026",
+   "title": "Ordenanza 5580/2026: Apruébase en todos sus términos el Convenio de Cesión de Equipamiento Industrial celebrado entre la MUNICIPALIDAD DE SAN VICENTE y PARQUE INDUSTRIAL PRIVADO SAN VICENTE S.A., de fecha 07 de Abril de 2026, el cual se inst",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387987",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387987",
+     "sha256": "5a4835f4c6ad06b02dddbb0096b27a469dfca058cce137b1a6fea9dfa9ac710b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5581-2026",
+   "short": "Ordenanza 5581/2026",
+   "title": "Ordenanza 5581/2026: Facúltese al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato/s de leasing en forma de contratación directa, de conformidad a lo establecido por el artículo 156°, inciso 2) del Decreto-Ley N° 6.769/5",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387989",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387989",
+     "sha256": "16f503af4d941f09f85424542e0e69163712dfa45d20de2dbfcf8d43e6c0a041"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5582-2026",
+   "short": "Ordenanza 5582/2026",
+   "title": "Ordenanza 5582/2026: Concédase la condonación de deuda por Patente de Rodado del automotor, Dominio HOQ 2325, por los años 2022 a 2024, propiedad de la señora Graciela Mabel SANTOS, titular del DNI N° 12.271.1 19.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387991",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387991",
+     "sha256": "a6b3a12d27030e0646877c860be2fc97a4155c6fc3264951be974694fa67a6e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5583-2026",
+   "short": "Ordenanza 5583/2026",
+   "title": "Ordenanza 5583/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 16552, por los años 1999 a 2025, propiedad del señor Raimundo Alfredo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387993",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387993",
+     "sha256": "82526d5647f7d6aaaaa3654aab42930fef831a1943fc9f122e27057068d97b39"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5584-2026",
+   "short": "Ordenanza 5584/2026",
+   "title": "Ordenanza 5584/2026: Convalídese, en todos sus términos, el Decreto N° 1040/2025 dictado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387995",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387995",
+     "sha256": "83ef0968d19340d3b861eda52b8c470a32d353bbe5cd53f53357a8c7f2a651dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5585-2026",
+   "short": "Ordenanza 5585/2026",
+   "title": "Ordenanza 5585/2026: Convalídese, en todos sus términos, el Decreto N° 0572/2025 dictado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387998",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2387998",
+     "sha256": "ffc5852be3eddb60d5092584eeeef959364e162905cd74ff912d26433e32b7f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5586-2026",
+   "short": "Ordenanza 5586/2026",
+   "title": "Ordenanza 5586/2026: Convalídase, en todos sus términos, el Decreto N° 0779/2025 dictado por el Departamento Ejecutivo Municipal con fecha 15 de abril de 2025, mediante el cual se autorizó a la Dirección General de Contaduría a incorporar co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388000",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388000",
+     "sha256": "e77f3791aba194fd991e52d5dbc12042167d4fc3187f1d26f353bf4259c96ac4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5587-2026",
+   "short": "Ordenanza 5587/2026",
+   "title": "Ordenanza 5587/2026: Adhiérase la Municipalidad de San Vicente a la emergencia económica",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388002",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388002",
+     "sha256": "9c695191e4caa40d7a5cda632da62e5dc34063ab361fee621dab4ebea9593bbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5589-2026",
+   "short": "Ordenanza 5589/2026",
+   "title": "Ordenanza 5589/2026: Aprobar, en todos sus términos, el Convenio suscripto entre esta Municipalidad de San Vicente y el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires, con el objeto de instrumentar la oper",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388007",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388007",
+     "sha256": "981ace36733545ba2d59ac78f8001edb6e957cf91dfcaf03498ceef7cbf7e2bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5590-2026",
+   "short": "Ordenanza 5590/2026",
+   "title": "Ordenanza 5590/2026: Autorícese al Departamento Ejecutivo Municipal a proceder a la venta de los inmuebles de dominio municipal identificados catastralmente como: Circunscripción I, Sección B, Quinta 70, Parcela 03. Partida Inmobiliaria 100-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388008",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388008",
+     "sha256": "278d8d14417419a74788a5a3a0576b45da83b2c2dcb514840710d68baf96735d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5591-2026",
+   "short": "Ordenanza 5591/2026",
+   "title": "Ordenanza 5591/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 108552, por los años 2001 y 2023, en un 100 %, propiedad del señor DI GERARDIS Rubén Horacio, titular del DNI N° 10.107.579.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388009",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388009",
+     "sha256": "860228c582949c0f0f09d462e50865bdd1e64b7aa906aaf0b64bf1d2bea7c224"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5592-2026",
+   "short": "Ordenanza 5592/2026",
+   "title": "Ordenanza 5592/2026: Dese de baja a partir del 5 de mayo de 2025, al mandatario externo de la Municipalidad de San Vicente, Dr. Javier Omar BENDER, T° XLII, F° 415 C.A: L.P.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388011",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388011",
+     "sha256": "2584e674f051e60aea9fe4742b524f4500920bc845ca59b2832941842f53d10c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5593-2026",
+   "short": "Ordenanza 5593/2026",
+   "title": "Ordenanza 5593/2026: Dese de baja a partir del 5 de mayo de 2025, al mandatario externo de la Municipalidad de San Vicente, Dr. Gabriel Alejandro LUCIANI, T° XLII, F° 453 C.A: L.P.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388013",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388013",
+     "sha256": "b18009695ac04e2bc45908128c1a122114bc28374282924078826eec5b69657a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5594-2026",
+   "short": "Ordenanza 5594/2026",
+   "title": "Ordenanza 5594/2026: Créase en el ámbito del Partido de San Vicente el PROGRAMA DE INCENTIVO AL CUMPLIMIENTO TRIBUTARIO - \"BUEN CONTRIBUYENTE\", destinado a promover el pago voluntario, regular y oportuno de las obligaciones tributarias munic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388015",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 22,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388015",
+     "sha256": "30f001e77332948a40fa196bed2658762137d78cea6d1416ff05c08abd3cb570"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5595-2026",
+   "short": "Ordenanza 5595/2026",
+   "title": "Ordenanza 5595/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 6198, por los años 2023 y 2024, propiedad del señor Luis Alberto SILVA, titular del DNI N° 4.648.200.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388018",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388018",
+     "sha256": "ef579c4b4e2e0467ec06e1266037eb7db522464d81a4ae45936ecae04a005027"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5596-2026",
+   "short": "Ordenanza 5596/2026",
+   "title": "Ordenanza 5596/2026: Declárase \"Patrimonio Histórico, Arquitectónico y Cultural del Partido de San Vicente\" al inmueble donde funciona la Biblioteca Popular \"Mitre\", ubicado en calle 9 de Julio N° 24 de la ciudad y partido de San Vicente, de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388020",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388020",
+     "sha256": "3bace1444c49e454b40139b8c791fcdf73e614a3dd10b7711b554e2c4fdcfb8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5597-2026",
+   "short": "Ordenanza 5597/2026",
+   "title": "Ordenanza 5597/2026: Convalidase, en todos sus términos, la Addenda al Convenio suscripto entre la COORDINACIÓN ECOLÓGICA ÁREA METROPOLITANA SOCIEDAD DEL ESTADO (CEAMSE) y la MUNICIPALIDAD DE SAN VICENTE, firmada el día 9 de marzo de 2026, p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388022",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388022",
+     "sha256": "d8074b62540cbaf002424ad559a6c58b6f5acbbd686d5dbe196c78c27efc65d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5598-2026",
+   "short": "Ordenanza 5598/2026",
+   "title": "Ordenanza 5598/2026: Convalidase, en todos sus términos, el Decreto N° 0677 dictado por el Departamento Ejecutivo Municipal con fecha 25 de marzo de 2026, por el cual se autorizó a la Dirección General de Contaduría a incorporar como deuda f",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388048",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388048",
+     "sha256": "e6af9b5e775f7776f5bf2ed361ce2c564ab097dd3872c3381c8259f397c05dee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5599-2026",
+   "short": "Ordenanza 5599/2026",
+   "title": "Ordenanza 5599/2026: Autorìzase al Departamento Ejecutivo Municipal a proceder a la venta directa del inmueble de dominio privado municipal identificado catastralmente como Circunscripción II, Sección B, Chacra 127, Manzana 127N. Parcela 28,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388049",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388049",
+     "sha256": "6659dfc540be54f723992ba584458938162054b734bc694acd6390fa24601060"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5601-2026",
+   "short": "Ordenanza 5601/2026",
+   "title": "Ordenanza 5601/2026: Condónese la deuda de Patentes del Automotor que registran los titulares",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388053",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388053",
+     "sha256": "b07640c8bed2599dcf2e4c13d54db7bea54b7f403e66bd61856599a12ef945b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5602-2026",
+   "short": "Ordenanza 5602/2026",
+   "title": "Ordenanza 5602/2026: Condònase la deuda que por la tusa por Propiedad Urbana y demás contribuciones que registran las entidades y vecinos titulares de las partidas correspondientes detalladas en el anexo I. que forma parte integrante de la p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388055",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14967/contents/2388055",
+     "sha256": "1d195cca3e3a6d2b1f4c2fcaeb08abaf286392e0e0f8505ead8050b1830137fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5576-2026",
+   "short": "Ordenanza 5576/2026",
+   "title": "Ordenanza 5576/2026: Se crea la “Zona Corredor - Avenida Rivadavia San Vicente Uno (ZC-ARSV1)” dentro del área urbana, sub área semi urbanizada de la localidad de San Vicente, del Partido de San Vicente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14988/contents/2389322",
+   "versions": [
+    {
+     "from": "2026-05-23",
+     "units": 27,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14988/contents/2389322",
+     "sha256": "0fb0a3650fe57730c4ff310f2a170ae598a31768793015f8d87109e14046c4bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5603-2026",
+   "short": "Ordenanza 5603/2026",
+   "title": "Ordenanza 5603/2026: Concédase la condonación de deuda por tasas municipales que registran",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430275",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430275",
+     "sha256": "a75514221a8780e7f7600120fd77094b1fad017f8430b819a10f1febb0fc591d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5604-2026",
+   "short": "Ordenanza 5604/2026",
+   "title": "Ordenanza 5604/2026: Convalídese lo actuado por el Departamento Ejecutivo mediante Decreto N° 0326/2026, por medio del cual se adjudica “ad referéndum\" del Honorable Concejo Deliberante, el Concurso de Precios N° 2/2026, a la firma Soma S.A.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430277",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430277",
+     "sha256": "c1b14cf0eca6cf209c505a6c57210805112eb34e603bccfd0dd8e826f0a1be35"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5605-2026",
+   "short": "Ordenanza 5605/2026",
+   "title": "Ordenanza 5605/2026: Condónese la deuda de Patentes del Automotor que registran los titulares de los dominios detallados en el Anexo 1, que forma parte integrante de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430285",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430285",
+     "sha256": "6bf43c28a59f94de4f5a278510a0efbb8faa51f9e1211cfe60b3679829032800"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5606-2026",
+   "short": "Ordenanza 5606/2026",
+   "title": "Ordenanza 5606/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 14214, por los años 2019 y 2024, en un 100 %, propiedad de la señora Olga Delia ROSALES, titular del DNI N° 4.847.683.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430287",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430287",
+     "sha256": "8ba894a1505f8283e1d091ef6f09212d4ffbcdad8c6d83cf4b473f9215c26168"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5607-2026",
+   "short": "Ordenanza 5607/2026",
+   "title": "Ordenanza 5607/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 18739, por los años 2003 a 2025, en un 100 %, propiedad del señor Raúl ORTUÑO ROJAS, titular del DNI N° 8.101.351.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430289",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430289",
+     "sha256": "f6d79a5819a0a1a62438661c5102cc4b3415368f76803977b5d43aa92f2b19ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5608-2026",
+   "short": "Ordenanza 5608/2026",
+   "title": "Ordenanza 5608/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida N° 4552, por el año 2025, en un 100 %, propiedad de la señora Yolanda Beatriz TELECHEA, titular del DNI N° 4.650.169.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430292",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430292",
+     "sha256": "0e01e7c14f1e5f4da70941406f0ec30bce8c5aae7bcb80c61cbfbeb692b9002f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5609-2026",
+   "short": "Ordenanza 5609/2026",
+   "title": "Ordenanza 5609/2026: Asignase a las calles del SECTOR INDUSTRIAL PLANIFICADO MIXTO PARQUE DEL SUR SAN VICENTE -sito a la altura del kilómetro 56 de la Ruta Provincial N° 6- los siguientes nombres conforme plano que se integra a la presente c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430293",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430293",
+     "sha256": "d9bd7fca450207ffc578906a15ea0a921b915dfd739ecfc74073ed38ff0d3564"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5610-2026",
+   "short": "Ordenanza 5610/2026",
+   "title": "Ordenanza 5610/2026: Desígnese con el nombre de \"FELICITAS” al barrio que se sitúa en la localidad de Domselaar, sobre las parcelas cuyos datos catastrales son los siguientes: Circunscripción III, Sección F, Quinta 39, Fracción IV y Circunsc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430297",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430297",
+     "sha256": "f3307da5888786e30343d3c18fcf162c96afa7770370bcab444abae1fb211c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5611-2026",
+   "short": "Ordenanza 5611/2026",
+   "title": "Ordenanza 5611/2026: Créase en el ámbito del Partido de San Vicente el “Programa de Registro Urbanístico de Edificaciones Preexistentes” (PRUEP).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430300",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430300",
+     "sha256": "872d4da980e87b5adc55c79b23606e4afb762a9518029bb33dec7c697191bc8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5612-2026",
+   "short": "Ordenanza 5612/2026",
+   "title": "Ordenanza 5612/2026: Créase la “Zona de Promoción para el Hábitat Social del Barrio Empalme”, conforme lo establecido en los Art. 44° y 45° de la Ley 14449, integrada por las parcelas identificadas catastralmente como 700A, 700B, 700C, 700D,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430305",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 54,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430305",
+     "sha256": "2ef158d08f549c0f5ed10c3b6fa6ec05bbbc988c69e6d448dc6653e94142d56b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5613-2026",
+   "short": "Ordenanza 5613/2026",
+   "title": "Ordenanza 5613/2026: Condònase la deuda que por la tasa por Servicios Especiales Urbanos y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el anexo I, que forma parte integrante de la p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430307",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430307",
+     "sha256": "9cd2e4f0264b73b2ec079cfd99d80bffd5b34316d3edd9cd2975420766908642"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5614-2026",
+   "short": "Ordenanza 5614/2026",
+   "title": "Ordenanza 5614/2026: Dése de baja del patrimonio municipal, el celular, marca Motorola, modelo E 13, patrimoniado con el número 22399.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430309",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430309",
+     "sha256": "664e5aaa90232a791d543d1a676efca9469f9b2e59b9f33884d784b6f80a0a00"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5615-2026",
+   "short": "Ordenanza 5615/2026",
+   "title": "Ordenanza 5615/2026: Dése de baja del patrimonio municipal, los bienes que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430311",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430311",
+     "sha256": "47552adf753fbb19f0a35f73eaa44a4c3e5b3bc88e61f7dd725ac9579ccb7c08"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5616-2026",
+   "short": "Ordenanza 5616/2026",
+   "title": "Ordenanza 5616/2026: Dése de baja del patrimonio municipal, los bienes que a continuación se detallan:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430312",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430312",
+     "sha256": "7df72d0593988741087d396501886a83819cf2bfbf5e270347972f8bae986ade"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5617-2026",
+   "short": "Ordenanza 5617/2026",
+   "title": "Ordenanza 5617/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida Nº 11087, por los años 2022 a 2025, en un 100 %, propiedad del señor Octavio Ramón GODOY, titular del DNI Nº 14.722.490, atento su condición",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430314",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430314",
+     "sha256": "d00921d4c2f01b917b194055d3156be93075756e05e5fbe6c7a3c3d9c877b226"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5618-2026",
+   "short": "Ordenanza 5618/2026",
+   "title": "Ordenanza 5618/2026: Condónese la deuda de Patentes del Automotor que registran los titulares de los dominios detallados en el Anexo I, que forma parte integrante de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430317",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430317",
+     "sha256": "308b329a58bf7d46c62adb63de237190dfd44119e1faf0914cf907103ed0793b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5619-2026",
+   "short": "Ordenanza 5619/2026",
+   "title": "Ordenanza 5619/2026: Condónase la deuda que por la tasa por Servicios Especiales Urbanos y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el anexo I, que forma parte integrante de la p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430322",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430322",
+     "sha256": "04a740c5ab57bdead58fc857d1c6d34e439bed837110fc5912fcd55aa51c9897"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5620-2026",
+   "short": "Ordenanza 5620/2026",
+   "title": "Ordenanza 5620/2026: Autorizase al Departamento Ejecutivo Municipal a proceder a la venta directa del inmueble de dominio privado municipal identificado catastralmente como Circunscripción III, Sección B, Manzana 121, Parcela 7, Partida N° 3",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430324",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430324",
+     "sha256": "c5c32c078cee654e9859421318f585e56473fce0c7be1d58073dfa410b3a20bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5621-2026",
+   "short": "Ordenanza 5621/2026",
+   "title": "Ordenanza 5621/2026: Convalídese lo actuado por el Departamento Ejecutivo mediante Decreto N° 0730/2026, por medio del cual se adjudica “ad referéndum” del Honorable Concejo Deliberante, la Licitación Pública N° 4/2026, a la firma Giorgi Cla",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430327",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430327",
+     "sha256": "5ffabb117e2e2a36a28174cf3b1c5c585e27df0c9dd67f6a7a1100ed72f22bdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5622-2026",
+   "short": "Ordenanza 5622/2026",
+   "title": "Ordenanza 5622/2026: Autorizase al Departamento Ejecutivo Municipal a proceder a la venta directa del inmueble de dominio privado municipal identificado catastralmente como Circunscripción VIII, Sección D, Quinta 15, Parcela 8, Partida Nº 33",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430329",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430329",
+     "sha256": "1f70c15d1eb2eef05e0a2ca9a15c43701464ffaca354a685c2a59f3a0f605784"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5623-2026",
+   "short": "Ordenanza 5623/2026",
+   "title": "Ordenanza 5623/2026: Objeto. La presente Ordenanza tiene por objeto establecer el RÉGIMEN DE PROMOCIÓN PARA EL DESARROLLO DEL DISTRITO ECOTURÍSTICO LAGUNA DE SAN VICENTE.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430333",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 61,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430333",
+     "sha256": "16bdce04dc319990252ec82d292848600c4455024b7e4a33a3062b1cdd439165"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5624-2026",
+   "short": "Ordenanza 5624/2026",
+   "title": "Ordenanza 5624/2026: Naturaleza y competencia. El presente régimen constituye una creación normativa propia del Municipio de San Vicente, dictada en ejercicio de las competencias que le reconocen la Constitución de la Provincia de Buenos Air",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430335",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 37,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430335",
+     "sha256": "1b7b48ba1a2c631ff9991082b873a0eb159fe909ee6d1683324ba5bf98fcf1b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5625-2026",
+   "short": "Ordenanza 5625/2026",
+   "title": "Ordenanza 5625/2026: Dispóngase la colocación de una placa conmemorativa por el 50 aniversario del Jardin de Infantes N°903 de la localidad de Domselaar, durante los actos oficiales del 8 de octubre del corriente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430336",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430336",
+     "sha256": "7d4a07cd08f0754efa427da2439dd0dd553f2c5f12d8709dcc05153658b972da"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5626-2026",
+   "short": "Ordenanza 5626/2026",
+   "title": "Ordenanza 5626/2026: Concédase a la Asociación Argentina Adventista del Séptimo Día, la condonación de deuda por tasas municipales que registra la Partida Nº 80903, cuya Nomenclatura Catastral es: Circunscripción I, Sección A, Manzana 52, Pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430338",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430338",
+     "sha256": "8a7638eb592af47d38233c6f3675d845baceaeac9583b505e2e24878f6780658"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5627-2026",
+   "short": "Ordenanza 5627/2026",
+   "title": "Ordenanza 5627/2026: Créase la Agencia de Fiscalización de Ingresos de San Vicente, cuya sigla será AFIS, como dependencia del Departamento Ejecutivo Municipal, con el objeto de ejercer, por delegación de éste, la administración tributaria d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430339",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 22,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430339",
+     "sha256": "d67013871ffaa78eaaa5f27f9b5d133836dc58ccc2213f727bdd05775a51f211"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5628-2026",
+   "short": "Ordenanza 5628/2026",
+   "title": "Ordenanza 5628/2026: Condònase la deuda que por la tasa por Propiedad Urbana y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el anexo I, que forma parte integrante de la presente Orde",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430341",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430341",
+     "sha256": "0f44db3d53890a29d017c3ab855cacbf89ea80ab79c2e97e673da02ea9903659"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5629-2026",
+   "short": "Ordenanza 5629/2026",
+   "title": "Ordenanza 5629/2026: Concédase la condonación de deuda por tasas municipales que registra la Partida Nº 3255, cuya Nomenclatura Catastral es: Circunscripción I, Sección A, Quinta 2, Manzana 89, Parcela 2, por el año 2021, en un 100 %, propie",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430342",
+   "versions": [
+    {
+     "from": "2026-08-23",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15602/contents/2430342",
+     "sha256": "ae13815409322ec5ea5010ed56ce4cc5d56abcfba51760abc2b9ed391ced0e53"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5632-2026",
+   "short": "Ordenanza 5632/2026",
+   "title": "Ordenanza 5632/2026: Promúlguese la ORDENANZA Nº 5632.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15718/contents/2439495",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15718/contents/2439495",
+     "sha256": "0e28f29e3891cb641dd9e467408d33de870f34f373bd5c4a05a9304afd8334f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5633-2026",
+   "short": "Ordenanza 5633/2026",
+   "title": "Ordenanza 5633/2026: Se autoriza a la firma GRUPO HILARTIAS SAS (CUIT 20- 42095825-1) a conformar una Urbanización protegida denominada “FELICITAS” en la localidad de San Vicente en el sector descripto en el artículo siguiente, ello en los t",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15718/contents/2439500",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15718/contents/2439500",
+     "sha256": "4477e1f53e771dcaaa7cee6c0986cf7a09ecfc6448ab7ef76b82f889db39a4cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5634-2026",
+   "short": "Ordenanza 5634/2026",
+   "title": "Ordenanza 5634/2026: Convalidase en todos sus términos el Decreto N° 191 3, de fecha 29 de julio de 2026, dictado por el Departamento Ejecutivo ad referéndum de este Honorable Cuerpo, por el cual se dispuso la apertura y libramiento al uso p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15738/contents/2441301",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15738/contents/2441301",
+     "sha256": "f8585b624b372a7aae4c26b351d810ca74de7f99f0b8cbdb8627cbef8783e941"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5635-2026",
+   "short": "Ordenanza 5635/2026",
+   "title": "Ordenanza 5635/2026: Promúlguese la ORDENANZA Nº 5635.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449938",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449938",
+     "sha256": "50218ab62807550b7f53953c2edbc2d6d2d31a7f3dda4d3179bc4bc8da567824"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5636-2026",
+   "short": "Ordenanza 5636/2026",
+   "title": "Ordenanza 5636/2026: Promúlguese la ORDENANZA Nº 5636.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449948",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449948",
+     "sha256": "3f2d85c569714efb4f15363660dbb9cc9225664d0fbb064c198816f2ec805480"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5637-2026",
+   "short": "Ordenanza 5637/2026",
+   "title": "Ordenanza 5637/2026: Promúlguese la ORDENANZA Nº 5637.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449954",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449954",
+     "sha256": "ca327fe4eae58f92fbdc58590aa7bfd2d767b80038b41ae7745181d3aa5700df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5638-2026",
+   "short": "Ordenanza 5638/2026",
+   "title": "Ordenanza 5638/2026: Promúlguese la ORDENANZA Nº 5638.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449959",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449959",
+     "sha256": "54d448d976658a57ed4827294b3915a41fe24b0447b819b76bac88fbaf9f4a27"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5639-2026",
+   "short": "Ordenanza 5639/2026",
+   "title": "Ordenanza 5639/2026: Promúlguese la ORDENANZA Nº 5639.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449978",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449978",
+     "sha256": "2c627854e838716e253a43ab514d013860e76c70a4ddc3e4cca27473da347842"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5640-2026",
+   "short": "Ordenanza 5640/2026",
+   "title": "Ordenanza 5640/2026: Convalídase, en todos sus términos, el Convenio para la vinculación al Sistema Unificado de Administración Tributaria Subnacional (SUATS) suscripto el 29 de agosto de 2025 entre el Centro de Administraciones Tributarias ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449988",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449988",
+     "sha256": "23104f97c256cf3026e799c51aa09e560e0cc091686ea29d492a36cda62edac3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5641-2026",
+   "short": "Ordenanza 5641/2026",
+   "title": "Ordenanza 5641/2026: El presente régimen será de aplicación a todo el personal con y sin estabilidad que se desempeñe en el ámbito de la Municipalidad de San Vicente en el marco de un vínculo de empleo público regulado por la Ley 14656, su d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449997",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 52,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2449997",
+     "sha256": "a0a01b7e791b41787f1aecc7d5ccdeaf06d4c5ea2573be6246a2e1766f1a57e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5642-2026",
+   "short": "Ordenanza 5642/2026",
+   "title": "Ordenanza 5642/2026: Condónese la deuda de Patentes del Automotor que registran los titulares de los dominios detallados en el Anexo I, que forma parte integrante de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450004",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450004",
+     "sha256": "6a893aa4f4c124b8eb854f508e48af390e4b08404c6effe273e8c5a7a46021df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5643-2026",
+   "short": "Ordenanza 5643/2026",
+   "title": "Ordenanza 5643/2026: Promúlguese la ORDENANZA Nº 5643.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450008",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450008",
+     "sha256": "de5cf7e9b2943e2094722bec44c0b1a30ae5afe4517a301362f1d1d99a80209e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5644-2026",
+   "short": "Ordenanza 5644/2026",
+   "title": "Ordenanza 5644/2026: Autorízase al Departamento Ejecutivo a transferir a título gratuito y con cargo, a favor de la ASOCIACIÓN ESPAÑOLA DE SOCORROS MUTUOS DE SAN VICENTE, la fracción de terreno designada como LOTE A, de CUATRO MIL CIENTO CIN",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450023",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450023",
+     "sha256": "30165305cc808cd25e20ae42452c5c1d95a33780b13f898998905ef8acd1a127"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5645-2026",
+   "short": "Ordenanza 5645/2026",
+   "title": "Ordenanza 5645/2026: Impónese los nombres: Fátima. Divina Misericordia. Karol Josef Woktyla. Polonia. Juan Pablo Magno. Ciudad del Vaticano, 16 de octubre y 18 de mayo a las calles que conforma el Barrio Juan Pablo II. de acuerdo al croquis ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450030",
+   "versions": [
+    {
+     "from": "2026-10-03",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15852/contents/2450030",
+     "sha256": "ecbc4a4c263cc805f985defb8327009287a3c83fc09cbbe961d820daa76d712a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5465-2026",
+   "short": "Ordenanza 5465/2026",
+   "title": "Ordenanza 5465/2026: Desafectar del dominio público municipal el tramo de la calle Buenos Aires comprendido entre las calles Bonifacio Arias y Juan José Paso, localidad de Alejandro Korn, Partido de San Vicente, trazado entre las Manzanas 33",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460130",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460130",
+     "sha256": "fda1ab8182db4fc61105895b4418635c79e68a386a0dca9600bfa11cf65e55b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5647-2026",
+   "short": "Ordenanza 5647/2026",
+   "title": "Ordenanza 5647/2026: Condónase la deuda que por la tasa por Propiedad Urbana y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el Anexo I, que forma parte integrante de la presente Orde",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460137",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460137",
+     "sha256": "adf189d774d043a27a13d57731641fc542f97263fe5770307765fbb27225751b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5648-2026",
+   "short": "Ordenanza 5648/2026",
+   "title": "Ordenanza 5648/2026: Concédase la condonación de deuda por Patente de Rodado del automotor, dominio OOS 825, por el año 2025, propiedad del señor Marcelo Gustavo MANZI MISETICH, titular del DNI Nº92.371.397",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460141",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15987/contents/2460141",
+     "sha256": "dce7d14205d0a45cf8931a38ac9eb93f12681c1ef678be6514c62101ce33ee49"
+    }
+   ]
+  }
+ ]
+}
