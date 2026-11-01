@@ -128,6 +128,12 @@
     "ordenanza-5648-2026"
    ],
    "sha256": "beb5476bab792bf6c8961c65dfd483037795a919ace6a9e0c182dee581a3554c"
+  },
+  "90-date-sanity-a6-q960.json": {
+   "acts": [
+    "ordenanza-5428-2024"
+   ],
+   "sha256": "24819f5fcd8464427a166ac672ca62a3b04de5d54a22f02e8755d6421a3ddae4"
   }
  },
  "schema": 1

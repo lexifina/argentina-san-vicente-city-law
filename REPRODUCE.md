@@ -129,7 +129,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-5647-2026` | Ordenanza 5647/2026: Condónase la deuda que por la tasa por Propiedad Urbana y demás contribuciones que registran los vecinos titulares de las partidas correspondientes detalladas en el Anexo I, que forma parte integrante de la presente Orde | 1 | 2026-10-24 to 2026-10-24 |
 | `ordenanza-5648-2026` | Ordenanza 5648/2026: Concédase la condonación de deuda por Patente de Rodado del automotor, dominio OOS 825, por el año 2025, propiedad del señor Marcelo Gustavo MANZI MISETICH, titular del DNI Nº92.371.397 | 1 | 2026-10-24 to 2026-10-24 |
 
-The build made 114 commits:
+The build made 115 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -153,15 +153,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6eee2d61cb65d9878d0b50738b806c8d528c3a108a339aafffd2b0a468454102` (2989352 bytes).
+- Corpus: sha256 `7f4a69fca21174d3007bae2e3a5fe6e072844b4b746ecc8b20d6f81b70f56ce1` (3104671 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-114 versions of 114 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 114 history commits and 228 tags (history tip `a725ebfedf5013e68710de29894324a47c1fd374`).
 
 ## Decisions made by hand
 
@@ -170,6 +170,7 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Enacted date corrected to 2023-12-26 from the closing assembly formula; the page header date 2024-01-26 was previously used as enactment. Legal text, publication date and commencement date are retained.
 
 ## What AI did and did not do
 
@@ -181,3 +182,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model identified the conflicting source dates and selected the explicit closing enactment formula for enactment metadata; no legal wording was generated or altered.
